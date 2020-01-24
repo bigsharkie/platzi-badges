@@ -21,6 +21,8 @@ export class Badges extends Component {
 
     componentDidMount() {
         this.fetchData();
+
+        this.intervalId = setInterval(this.fetchData, 5000);
     }
 
     fetchData = async () => {
@@ -35,10 +37,12 @@ export class Badges extends Component {
 
     componentDidUpdate(prevProps, prevState) {}
 
-    componentWillUnmount() {}
+    componentWillUnmount() {
+        clearInterval(this.intervalId);
+    }
 
     render() {
-        if (this.state.loading) {
+        if (this.state.loading && !this.state.data) {
             return <PageLoading />;
         }
 

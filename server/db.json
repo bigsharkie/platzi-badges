@@ -3,29 +3,29 @@
     {
       "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
       "firstName": "Freda",
-      "lastName": "Grady",
+      "lastName": "Gradyx",
       "email": "Leann_Berge@gmail.com",
       "jobTitle": "Legacy Brand Director",
-      "twitter": "FredaGrady22221-7573",
-      "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
+      "twitter": "FredaGrady",
+      "avatarUrl": "https://s.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b"
     },
     {
       "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
-      "firstName": "Major",
+      "firstName": "Maria",
       "lastName": "Rodriguez",
       "email": "Ilene66@hotmail.com",
       "jobTitle": "Human Research Architect",
       "twitter": "MajorRodriguez61545",
-      "avatarUrl": "https://www.gravatar.com/avatar/d57a8be8cb9219609905da25d5f3e50a?d=identicon"
+      "avatarUrl": "https://s.gravatar.com/avatar/d57a8be8cb9219609905da25d5f3e50a"
     },
     {
       "id": "63c03386-33a2-4512-9ac1-354ad7bec5e9",
-      "firstName": "Daphney",
+      "firstName": "Daphny",
       "lastName": "Torphy",
-      "email": "Ron61@hotmail.com",
+      "email": "ronie@hotmail.com",
       "jobTitle": "National Markets Officer",
       "twitter": "DaphneyTorphy96105",
-      "avatarUrl": "https://www.gravatar.com/avatar/e74e87d40e55b9ff9791c78892e55cb7?d=identicon"
+      "avatarUrl": "https://s.gravatar.com/avatar/8f1f1649d136b8b7a4270a504e675db9"
     },
     {
       "id": "a9748581-dfdc-4a78-930d-5205a2ccef48",
@@ -48,11 +48,11 @@
     {
       "id": "3629db36-14f9-4f24-b139-200f3a1b9af7",
       "firstName": "Breanna",
-      "lastName": "Runolfsdottir",
-      "email": "Laurianne.Lynch@gmail.com",
+      "lastName": "Runolfs",
+      "email": "Brarun@gmail.com",
       "jobTitle": "Lead Marketing Director",
       "twitter": "BreannaRunolfsdottir70705-1477",
-      "avatarUrl": "https://www.gravatar.com/avatar/684697e194c66d338c5ee91d030121cc?d=identicon"
+      "avatarUrl": "https://s.gravatar.com/avatar/8e4dad4fce6e661ebcbf16aec150bab0"
     },
     {
       "id": "8c734836-1f7a-4493-b903-37db30fc7224",
@@ -449,6 +449,15 @@
       "twitter": "joel",
       "avatarUrl": "https://s.gravatar.com/avatar/cc5886c9957288ae2736ebff0d0252af",
       "id": "Dh2Y1f3"
+    },
+    {
+      "firstName": "Eliana",
+      "lastName": "Mendez",
+      "email": "eliana@gmail.com",
+      "jobTitle": "daughter",
+      "twitter": "eli",
+      "avatarUrl": "https://s.gravatar.com/avatar/fa739f9e55773d9c9cb0c7dbb0060926",
+      "id": "VvEtMSS"
     }
   ]
 }

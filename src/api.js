@@ -25,9 +25,11 @@ const api = {
     badges: {
         list() {
             return callApi('/badges');
-            //throw new Error('wrong url');
+            //throw new Error('Wrong Url');
         },
         create(badge) {
+            //throw new Error('Server Error');
+
             return callApi(`/badges`, {
                 method: 'POST',
                 body: JSON.stringify(badge)
